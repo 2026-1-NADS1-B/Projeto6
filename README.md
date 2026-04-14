@@ -11,7 +11,7 @@
 
 ## Integrantes: Cauã Ferreira Busto Fernandes, Matheus Urquiza Almeida.
 
-## Professores Orientadores: Aimar Martins Lopes, Daniel Tressoldi da Cunha, Eduardo Savino Gomes, Lucy Mari Tabuti, Renata Muniz do Nascimento, Ronaldo Araujo Pinto
+## Professores Orientadores: Francisco de Souza Escobar, Renata Muniz, Marcelo Amorim, Katia Bossi, Robson Cardoso, Daniel da Cunha.
 
 ## Descrição
 
